@@ -1,2 +1,2 @@
-# windows-shutdown-timer
+# Windows Shutdown Timer
 Shutdown your windows via timing
